@@ -9,7 +9,7 @@ rigidity, focusing on natural-frequency evolution and resonance-crossing behavio
 ---
 
 ## Project Structure
-
+```text
 GroupProject2/
 ├── __init__.py
 ├── analysis.py
@@ -28,7 +28,7 @@ GroupProject2/
 ├── time_integrators.py
 ├── viz.py
 └── __pycache__/
-
+```
 ---
 
 ## File Descriptions
